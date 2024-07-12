@@ -1,0 +1,1 @@
+Esse projeto tem o objetivo de aperfeiçoar o básico HTML e CSS, com bases do decorrer das aulas da formação das linguagens
